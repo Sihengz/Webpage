@@ -1,0 +1,39 @@
+nav {
+    background-color: purple;
+    height: auto;
+    padding: 10px;
+}
+nav img {
+    height: auto;
+    width: 50px;
+
+
+}
+nav img:active {
+    filter: brightness(80%);
+}
+body {
+    background-color: bisque;
+}
+header h1 {
+    text-align: center;
+}
+section img {
+    width: 33%;
+    transition: width 2s;
+}
+section img:hover {
+    width: 50%;
+}
+section img:active {
+    filter:grayscale(50%);
+}
+#hippo {
+
+}
+#squid {
+
+}
+#tree {
+    
+}
